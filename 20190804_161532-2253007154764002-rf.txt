@@ -1,0 +1,32 @@
+----------------
+Model: rf
+----------------
+Shallow: 0.0
+Medium: 1.0
+Deep: 2.0
+
+Confusion matrix: 
+63292.0  4339.0  0.0  
+39105.0  7301.0  0.0  
+17279.0  1054.0  0.0  
+Accuracy = 0.5333005968119665
+Class 0.0 precision = 0.5288612587319095
+Class 0.0 recall = 0.9358430305629075
+Class 0.0 F1 score = 0.6758103007362245
+Class 0.0 False Positive Rate = 0.8709433262793679
+Class 0.0 True Positive Rate = 0.9358430305629075
+Class 1.0 precision = 0.5751536158815188
+Class 1.0 recall = 0.15732879369047106
+Class 1.0 F1 score = 0.24707275803722506
+Class 1.0 False Positive Rate = 0.06273556372434973
+Class 1.0 True Positive Rate = 0.15732879369047106
+Class 2.0 precision = 0.0
+Class 2.0 recall = 0.0
+Class 2.0 F1 score = 0.0
+Class 2.0 False Positive Rate = 0.0
+Class 2.0 True Positive Rate = 0.0
+Weighted precision = 0.4718440317888912
+Weighted recall = 0.5333005968119664
+Weighted F1 score = 0.43190590661454303
+Weighted false positive rate = 0.4669794868156841
+Weighted true positive rate = 0.5333005968119664

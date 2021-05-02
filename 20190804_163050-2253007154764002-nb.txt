@@ -1,0 +1,32 @@
+----------------
+Model: nb
+----------------
+Shallow: 0.0
+Medium: 1.0
+Deep: 2.0
+
+Confusion matrix: 
+2453.0  24342.0  41030.0  
+871.0   19156.0  26229.0  
+464.0   6622.0   11254.0  
+Accuracy = 0.24817060738100452
+Class 0.0 precision = 0.6475712777191129
+Class 0.0 recall = 0.036166605234058236
+Class 0.0 F1 score = 0.06850711463002528
+Class 0.0 False Positive Rate = 0.02066691436002229
+Class 0.0 True Positive Rate = 0.036166605234058236
+Class 1.0 precision = 0.3822027134876297
+Class 1.0 recall = 0.41413005880318227
+Class 1.0 F1 score = 0.39752635510915574
+Class 1.0 False Positive Rate = 0.3593570475250972
+Class 1.0 True Positive Rate = 0.41413005880318227
+Class 2.0 precision = 0.14333931960312304
+Class 2.0 recall = 0.6136314067611778
+Class 2.0 F1 score = 0.23239342095753357
+Class 2.0 False Positive Rate = 0.5895723214207449
+Class 2.0 True Positive Rate = 0.6136314067611778
+Weighted precision = 0.4850403919914811
+Weighted recall = 0.24817060738100455
+Weighted F1 score = 0.2061347480540982
+Weighted false positive rate = 0.21776689068686894
+Weighted true positive rate = 0.24817060738100455

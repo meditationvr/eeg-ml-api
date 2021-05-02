@@ -1,0 +1,32 @@
+----------------
+Model: mlp
+----------------
+Shallow: 0.0
+Medium: 1.0
+Deep: 2.0
+
+Confusion matrix: 
+67825.0  0.0  0.0  
+46256.0  0.0  0.0  
+18340.0  0.0  0.0  
+Accuracy = 0.5121921749571443
+Class 0.0 precision = 0.5121921749571443
+Class 0.0 recall = 1.0
+Class 0.0 F1 score = 0.6774167773638425
+Class 0.0 False Positive Rate = 1.0
+Class 0.0 True Positive Rate = 1.0
+Class 1.0 precision = 0.0
+Class 1.0 recall = 0.0
+Class 1.0 F1 score = 0.0
+Class 1.0 False Positive Rate = 0.0
+Class 1.0 True Positive Rate = 0.0
+Class 2.0 precision = 0.0
+Class 2.0 recall = 0.0
+Class 2.0 F1 score = 0.0
+Class 2.0 False Positive Rate = 0.0
+Class 2.0 True Positive Rate = 0.0
+Weighted precision = 0.2623408240873299
+Weighted recall = 0.5121921749571443
+Weighted F1 score = 0.3469675725504461
+Weighted false positive rate = 0.5121921749571443
+Weighted true positive rate = 0.5121921749571443
